@@ -1,6 +1,3 @@
-# chat_memory.py
-# Description: Manages the conversation history using a sliding window buffer.
-
 from collections import deque
 
 class ChatMemory:

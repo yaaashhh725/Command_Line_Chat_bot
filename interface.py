@@ -1,6 +1,3 @@
-# interface.py
-# Description: The main command-line interface for the chatbot.
-
 from model_loader import load_model
 from chat_memory import ChatMemory
 

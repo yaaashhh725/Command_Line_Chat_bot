@@ -1,6 +1,3 @@
-# model_loader.py
-# Description: Handles loading the Hugging Face model and tokenizer.
-
 import os
 import torch
 from transformers import pipeline
